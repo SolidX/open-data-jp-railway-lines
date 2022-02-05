@@ -108,7 +108,7 @@ function ekidataCodes(code, name, lines) {
     'JR-Central.Tokaido': ['11501', '11502', '11503'],
     'Tobu.TobuUrbanPark': ['21004'],
     'JR-East.Chuo': ['11311'],
-    // trains on the Joban have different directions but all 3 have local / rapoid trains
+    // trains on the Joban have different directions but all 3 have local / rapid trains
     'JR-East.Joban': ['11229', '11230', '11320'],
     'JR-East.JobanLocal': ['11229', '11230', '11320'],
     'JR-East.JobanRapid': ['11229', '11230', '11320'],
@@ -171,7 +171,7 @@ function ekidataCodes(code, name, lines) {
 }
 
 async function generate() {
-  const lines = await readCsv('./input/line20180424free.csv');
+  const lines = await readCsv('./input/line20211208free.csv');
   const interesting = lines.filter((l) => l.e_status === '0');
 
   await connectWikipediaLines(interesting);
