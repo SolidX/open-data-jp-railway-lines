@@ -773,7 +773,7 @@
     "name_romaji": "Ban'etsu West Line",
     "alternative_names": [
       "森と水とロマンの鉄道",
-      "JR磐越西線(森と水とロマンの鉄道)",
+      "JR磐越西線",
       "モリトミズトロマンノテツドウ"
     ],
     "prefectures": [
@@ -2063,7 +2063,7 @@
     "name_romaji": "Taita Line",
     "alternative_names": [
       "JR太多線",
-      "オオタセン"
+      "タイタセン"
     ],
     "prefectures": [
       "21"
@@ -2185,7 +2185,6 @@
     "name_kana": "ジェイアールきょうとせん",
     "name_romaji": "JR Kyoto Line",
     "alternative_names": [
-      "京都線",
       "JR東海道本線(京都～大阪)",
       "キョウトセン"
     ],
@@ -3970,7 +3969,7 @@
       "13",
       "12"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Number_prefix_Keisei.svg/28px-Number_prefix_Keisei.svg.png"
   },
   {
     "code": "Keisei.Main",
@@ -3985,7 +3984,7 @@
       "13",
       "12"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Number_prefix_Keisei.PNG/28px-Number_prefix_Keisei.PNG"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Number_prefix_Keisei.svg/28px-Number_prefix_Keisei.svg.png"
   },
   {
     "code": "Keisei.Oshiage",
@@ -4057,7 +4056,7 @@
       "13",
       "12"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Number_prefix_SkyAccess.PNG/28px-Number_prefix_SkyAccess.PNG"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Number_prefix_SkyAccess.svg/28px-Number_prefix_SkyAccess.svg.png"
   },
   {
     "code": "Keio.Keio",
@@ -4560,6 +4559,22 @@
       "14"
     ],
     "logo": ""
+  },
+  {
+    "code": "",
+    "ekidata_id": "29003",
+    "name_kanji": "相鉄・JR直通線",
+    "name_kana": "",
+    "name_romaji": "",
+    "alternative_names": [
+      "相鉄新横浜線",
+      "ソウテツ・ジェイアールチョクツウセン"
+    ],
+    "prefectures": [
+      "13",
+      "14"
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sotetsu_line_symbol.svg/28px-Sotetsu_line_symbol.svg.png"
   },
   {
     "code": "",
@@ -5241,7 +5256,7 @@
     "name_kana": "わかやまこうせん",
     "name_romaji": "Wakayamako Line",
     "alternative_names": [
-      "ナンカイワカヤマセン"
+      "ナンカイワカヤマコウセン"
     ],
     "prefectures": [
       "30"
@@ -5397,8 +5412,8 @@
     "name_kana": "こうさくせん",
     "name_romaji": "Keihan Cable Line",
     "alternative_names": [
-      "男山ケーブル",
-      "オトコヤマケーブル"
+      "石清水八幡宮参道ケーブル",
+      "イワシミズハチマングウサンドウケーブル"
     ],
     "prefectures": [
       "26"
@@ -5605,7 +5620,7 @@
       "27",
       "28"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Number_prefix_Hanshin_Railway.png/25px-Number_prefix_Hanshin_Railway.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Number_prefix_Hanshin_line.svg/25px-Number_prefix_Hanshin_line.svg.png"
   },
   {
     "code": "",
@@ -5867,7 +5882,8 @@
     "name_kana": "みなみリアスせん",
     "name_romaji": "",
     "alternative_names": [
-      "サンリクテツドウミナミリアスセン"
+      "三陸鉄道リアス線",
+      "サンリクテツドウリアスセン"
     ],
     "prefectures": [
       "03"
@@ -6123,7 +6139,7 @@
       "13",
       "11"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SR%282%29.png/28px-SR%282%29.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Saitama_Stadium_Line_symbol.svg/28px-Saitama_Stadium_Line_symbol.svg.png"
   },
   {
     "code": "Isumi.Isumi",
@@ -6156,7 +6172,7 @@
       "12",
       "08"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tsukuba_Express_symbol.svg/28px-Tsukuba_Express_symbol.svg.png"
   },
   {
     "code": "Minatomirai.Minatomirai",
@@ -6172,7 +6188,7 @@
     "prefectures": [
       "14"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/ja/thumb/2/20/Number_prefix_Minatomirai.PNG/28px-Number_prefix_Minatomirai.PNG"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Number_prefix_Minatomirai.svg/28px-Number_prefix_Minatomirai.svg.png"
   },
   {
     "code": "Yurikamome.Yurikamome",
@@ -6348,7 +6364,7 @@
     "prefectures": [
       "11"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/New_Shuttle_Line_symbol.svg/28px-New_Shuttle_Line_symbol.svg.png"
   },
   {
     "code": "KashimaRinkai.OaraiKashima",
@@ -6376,7 +6392,7 @@
     "prefectures": [
       "12"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Number_prefix_Shibayama.PNG/28px-Number_prefix_Shibayama.PNG"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Number_prefix_Shibayama.svg/28px-Number_prefix_Shibayama.svg.png"
   },
   {
     "code": "",
@@ -6449,7 +6465,7 @@
     "prefectures": [
       "12"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Number_prefix_Shin-Keisei.PNG/28px-Number_prefix_Shin-Keisei.PNG"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Number_prefix_Shin-Keisei.svg/28px-Number_prefix_Shin-Keisei.svg.png"
   },
   {
     "code": "",
@@ -6521,7 +6537,7 @@
     "prefectures": [
       "13"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tama_Monorail_Line_symbol.svg/28px-Tama_Monorail_Line_symbol.svg.png"
   },
   {
     "code": "Choshi.Choshi",
@@ -6536,7 +6552,7 @@
     "prefectures": [
       "12"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Number_prefix_Choshi.png/28px-Number_prefix_Choshi.png"
   },
   {
     "code": "TokyoMonorail.HanedaAirport",
@@ -6581,7 +6597,7 @@
     "prefectures": [
       "12"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Number_prefix_T%C5%8Dy%C5%8D.PNG/28px-Number_prefix_T%C5%8Dy%C5%8D.PNG"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Number_prefix_Toyo-Rapid.svg/28px-Number_prefix_Toyo-Rapid.svg.png"
   },
   {
     "code": "HakoneTozan.HakoneTozan",
@@ -6851,8 +6867,8 @@
     "name_kana": "とやまこうせん",
     "name_romaji": "Toyama Light Rail Toyamako Line",
     "alternative_names": [
-      "富山ライトレール",
-      "トヤマライトレール"
+      "富山港線",
+      "トヤマコウセン"
     ],
     "prefectures": [
       "16"
@@ -7016,7 +7032,7 @@
     "prefectures": [
       "22"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Number_prefix_Izukyu.png/28px-Number_prefix_Izukyu.png"
   },
   {
     "code": "IzuHakone.Sunzu",
@@ -7906,7 +7922,7 @@
     "prefectures": [
       "28"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_prefix_Kobe_Railway.svg/25px-Number_prefix_Kobe_Railway.svg.png"
   },
   {
     "code": "",
@@ -7938,7 +7954,7 @@
     "prefectures": [
       "28"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_prefix_Kobe_Railway.svg/25px-Number_prefix_Kobe_Railway.svg.png"
   },
   {
     "code": "",
@@ -7954,22 +7970,22 @@
     "prefectures": [
       "28"
     ],
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Number_prefix_Kobe_Railway_line.png/25px-Number_prefix_Kobe_Railway_line.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Number_prefix_Kobe_Railway.svg/25px-Number_prefix_Kobe_Railway.svg.png"
   },
   {
     "code": "",
     "ekidata_id": "99636",
-    "name_kanji": "北神急行北神線",
+    "name_kanji": "北神線",
     "name_kana": "",
     "name_romaji": "",
     "alternative_names": [
-      "北神急行電鉄北神線",
-      "ホクシンキュウコウホクシンセン"
+      "神戸市営地下鉄北神線",
+      "ホクシンセン"
     ],
     "prefectures": [
       "28"
     ],
-    "logo": ""
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Subway_KobeSeishin.svg/13px-Subway_KobeSeishin.svg.png"
   },
   {
     "code": "",
